@@ -1,3 +1,3 @@
 node_modules/
 .env
-some/other/rules
+finance-tracker-client/node_modules/
